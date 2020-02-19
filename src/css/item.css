@@ -1,0 +1,17 @@
+.contents {
+	margin-top: 100px;
+	height: 500px;
+	font-size: 28px;
+	padding-bottom: 15px;
+	margin-bottom: 50px
+}
+
+.contents_it {
+	text-align: center;
+	margin-top: 40px
+}
+
+._p {
+	font-size: 15px;
+	margin-top: 20px
+}
