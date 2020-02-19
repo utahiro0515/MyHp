@@ -1,0 +1,21 @@
+.FooterBloc {
+	color: #6E6E6E;
+	background-color: #F5A9F2;
+	height: 270px;
+	padding: 40px
+}
+
+.FooterLogo {
+	font-size: 32px;
+	float: left
+}
+
+.FooterList {
+	float: right
+}
+
+.FooterList li {
+	color: #6E6E6E;
+	list-style: none;
+	padding-bottom: 20px
+}
