@@ -1,1 +1,21 @@
-.h
+.BodyBloc {
+	background-color: #ECCEF5;
+	padding: 100px 80px
+}
+
+.Bodys h1 {
+	font-size: 100px;
+	margin-top: 10px
+}
+
+.Bodys h2 {
+	font-size: 30px
+}
+
+.Bodys span {
+	color: #ff4a4a
+}
+
+.BodyH3 {
+	border-bottom: 2px solid #dee7ec
+}
